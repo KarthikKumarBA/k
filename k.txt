@@ -1,2 +1,6 @@
 hi this is my first project
+<<<<<<< HEAD
 test for merge
+=======
+this is testing for merge conflict
+>>>>>>> 20f8dfae5559eb33577c372bc5b46466c8d5e6ad
