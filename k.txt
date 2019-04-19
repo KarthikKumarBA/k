@@ -3,4 +3,8 @@ test for merge
 this is testing for merge conflict
 hi test
 hi 3rd line
+<<<<<<< HEAD
 k
+=======
+hi
+>>>>>>> 0e097765cbf38b78c70e28528f3487fd091c5f6a
